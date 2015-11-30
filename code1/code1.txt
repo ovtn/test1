@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 issue1
-=======
 issue2 at master
->>>>>>> a836ea1e61b5950e459d55194cd0867029904d96
 
